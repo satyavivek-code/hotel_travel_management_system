@@ -1,13 +1,9 @@
-/*
-youtube link:
-https://www.youtube.com/watch?v=viSEf6o0ibs&ab_channel=idealbit
-*/
+
 
 
 #include<iostream>
 #include<fstream>
-#include<iomanip>   // for floating point
-//#include<linux.h>
+#include<iomanip>  
 #include<unistd.h>
 using namespace std;
 
